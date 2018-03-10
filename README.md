@@ -10,6 +10,10 @@ Automatically send e-mail reminders to whoever's holding up your Scrabble game a
   - Two-player games only.
   - Not a lot of error checking for the config file.
 
+# Disclaimer
+Scrabble is a registered trademark of J. W. Spear & Son PLC and Hasbro Inc.
+This project is for personal use and is not affiliated with any trademark holders.
+
 # License
 Please see LICENSE.md.
 
